@@ -30,7 +30,7 @@ A master script runs all sections:
 ```text
 .
 ├─ R/
-│  ├─ run_all.R
+│  ├─ R_run_all.R
 │  ├─ 01_raised_bog.R
 │  ├─ 02_grassland.R
 │  ├─ 03_limestone_pavement.R
